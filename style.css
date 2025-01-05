@@ -1,0 +1,44 @@
+
+
+.bg-custom{
+
+    background-color: #604829;
+
+
+}
+
+.text-custom {
+    color:#c4a47c;
+
+}
+
+.nav {
+    height: 3em;
+}
+
+.custom-img {
+    width: 100px;  /* Define a largura em pixels */
+    height: auto;  /* Ajusta a altura proporcionalmente */
+}
+
+.bg-image {
+    background-image: url('/download-arquivos-do-projeto/assets/parallax-imagem1.png'); /* Substitua pela URL da sua imagem */
+    background-size: cover; /* Ajusta para cobrir toda a área */
+    background-position: fixed; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    height: 100vh; 
+    background-attachment: fixed;
+
+
+}
+
+
+
+
+
+
+.custom-title{
+    font-size: 80px;
+    color: white;
+    margin: 0 auto;
+}
