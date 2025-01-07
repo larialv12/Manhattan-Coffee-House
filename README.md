@@ -6,8 +6,8 @@ O site fictício da Agência de Viagens oferece uma plataforma eficiente para vi
 
 
 <div align="center">
-  <img src= "![mobile](https://github.com/user-attachments/assets/9c251170-e075-4efc-8132-8bfcea5a73f6)" alt="Imagem 2" style="width: 200px; height: 400px;">
-  <img src="https://github.com/user-attachments/assets/b54d3e39-be1d-4bb5-9b86-0a698c74bb53" alt="Imagem 1" style="width: 400px; height: 400px;">
+  <img src= "download-arquivos-do-projeto/assets/mobile.png" alt="Imagem 2" style="width: 200px; height: 400px;">
+  <img src="download-arquivos-do-projeto/assets/desktop.png" alt="Imagem 1" style="width: 400px; height: 400px;">
   
 </div>
 
