@@ -6,7 +6,8 @@ O site fictício da Agência de Viagens oferece uma plataforma eficiente para vi
 
 
 <div align="center">
-  <img src= "\download-arquivos-do-projeto\Screenshot 2025-01-06 at 23-02-52 Manhattan - Coffee House.png" alt="Imagem 2" style="width: 200px; height: 400px;">
+  <img src= "a![mobile](https://github.com/user-attachments/assets/4de9356f-0658-4960-b681-717f1b952cc6)" 
+alt="Imagem 2" style="width: 200px; height: 400px;">
   <img src="https://github.com/user-attachments/assets/b54d3e39-be1d-4bb5-9b86-0a698c74bb53" alt="Imagem 1" style="width: 400px; height: 400px;">
   
 </div>
