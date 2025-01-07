@@ -1,10 +1,13 @@
-# cafeteria
 
 <h1>☕ Manhattan Coffee House </h1>
 
 O Manhattan Coffee House é um site fictício desenvolvido para apresentar uma cafeteria sofisticada e acolhedora. O site destaca a experiência única proporcionada pelo café gourmet, com informações detalhadas sobre a história e os diferenciais do estabelecimento. O design elegante e responsivo garante uma navegação agradável tanto em dispositivos móveis quanto em desktops.
 
-
+<div align="center">
+  <img src= "download-arquivos-do-projeto/assets/mobile.png" alt="Imagem 2" style="width: 200px; height: 400px;">
+  <img src="download-arquivos-do-projeto/assets/desktop.png" alt="Imagem 1" style="width: 400px; height: 400px;">
+  
+</div>
 
 
 
